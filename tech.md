@@ -3,7 +3,7 @@
 ### Web Server Framework Options
 * Django(Python)
 * Spring Boot(Java)
-* .Net(C#)
+* Other frameworks
 
 ### Database
 * MySQL
